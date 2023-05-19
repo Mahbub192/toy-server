@@ -60,6 +60,14 @@ async function run() {
       res.send(toys);
     });
 
+    //get toy find by ID
+    app.get("/findToyById/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await allToyCollection.find(query).toArray();
+      res.send(result);
+    });
+
     
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
