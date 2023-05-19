@@ -90,12 +90,23 @@ async function run() {
       const body = req.body;
       const filter = { _id: new ObjectId(id) };
       const updateDoc = {
+        $set: {
+          seller: body.seller,
+          name: body.name,
+          price: body.price,
+          quantity: body.quantity,
+          rating: body.rating,
+          email: body.email,
+          picture: body.picture,
+          category: body.category,
+          details: body.details,
+        },
       };
       const result = await allToyCollection.updateOne(filter, updateDoc);
       res.send(result);
     });
 
-    
+
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
     console.log(
