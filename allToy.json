@@ -1,0 +1,152 @@
+[
+  {
+    "seller": "Imran",
+    "picture": "https://i.ibb.co/T0PWvKB/chemistry.jpg",
+    "name": "Chemistry Lab Set",
+    "price": 29.99,
+    "category": "Science Kits",
+    "quantity": 10,
+    "rating": 4.5,
+    "details": "Explore the fascinating world of chemistry with the Chemistry Lab Set. This comprehensive kit includes various experiments and materials for hands-on learning. From creating chemical reactions to exploring elements and conducting tests, children will discover the wonders of chemistry. The set comes with clear instructions and safety guidelines for a safe and educational experience. It's perfect for young scientists to learn about the properties of substances, the periodic table, and the basics of chemical reactions. Available in limited quantity, so grab yours now and let the scientific journey begin!"
+  },
+  {
+    "seller": "Hridoy",
+    "picture": "https://i.ibb.co/1frJN4j/robot.jpg",
+    "name": "Robotics Engineering Kit",
+    "price": 39.99,
+    "category": "Science Kits",
+    "quantity": 8,
+    "rating": 4.8,
+    "details": "Unleash your child's inner engineer with the Robotics Engineering Kit. They can build and program their own robots, learning coding skills along the way. The kit includes components, sensors, and a programmable controller for endless possibilities. With exciting projects like building line-following robots or creating robotic arms, children will develop critical thinking, logical reasoning, and creativity. Limited quantity available. Let your child dive into the world of robotics and inspire their passion for technology and innovation!"
+  },
+  {
+    "seller": "Rakib",
+    "picture": "https://i.ibb.co/vmkRv24/space.jpg",
+    "name": "Space Exploration Kit",
+    "price": 49.99,
+    "category": "Science Kits",
+    "quantity": 5,
+    "rating": 4.7,
+    "details": "Embark on a cosmic adventure with the Space Exploration Kit. It includes telescopes, celestial maps, and interactive guides for stargazing, planet observation, and exploring the mysteries of the universe. Children can build rockets, simulate moon landings, and learn about the planets in our solar system. The kit sparks curiosity, cultivates scientific exploration, and nurtures a deeper understanding of space. Limited quantity available. Let your child's imagination soar as they become a Stellar Explorer!"
+  },
+  {
+    "seller": "MathMaster",
+    "picture": "https://i.ibb.co/vYmyPKt/number-Blocks.jpg",
+    "name": "Number Blocks Set",
+    "price": 19.99,
+    "category": "Math Learning Toys",
+    "quantity": 15,
+    "rating": 4.5,
+    "details": "Introduce your child to the world of numbers with the Number Blocks Set. This interactive math learning toy consists of colorful blocks featuring numbers and symbols. It helps develop numeracy skills, counting abilities, and basic math concepts. Kids can stack, arrange, and play with the blocks to practice addition, subtraction, and even explore multiplication and division. The set includes an activity guide with engaging games and ideas for learning through play. Limited quantity available, so grab this educational toy now and make math fun for your little one!"
+  },
+  {
+    "seller": "MathGenius",
+    "picture": "https://i.ibb.co/82yRkjC/math-Puzzle.jpg",
+    "name": "Math Puzzle Set",
+    "price": 24.99,
+    "category": "Math Learning Toys",
+    "quantity": 10,
+    "rating": 4.8,
+    "details": "Challenge your child's mind with the Math Puzzle Set. This collection of stimulating puzzles enhances problem-solving and critical thinking skills. Each puzzle is based on mathematical concepts and requires logical reasoning to solve. From number puzzles and shape patterns to mathematical riddles, this set offers a variety of brain-teasing challenges. It's an excellent tool for developing mathematical aptitude, spatial awareness, and logical reasoning abilities. Limited quantity available, so get this math puzzle set now and watch your child's problem-solving skills soar!"
+  },
+  {
+    "seller": "MathExplorer",
+    "picture": "https://i.ibb.co/yPLMrSd/geometry-Constuction.jpg",
+    "name": "Geometry Construction Kit",
+    "price": 34.99,
+    "category": "Math Learning Toys",
+    "quantity": 7,
+    "rating": 4.7,
+    "details": "Ignite your child's passion for geometry with the Geometry Construction Kit. This hands-on toy allows kids to construct various shapes and figures using different geometric components. They can explore angles, symmetry, and spatial relationships while having fun building and creating. The kit includes a guidebook with step-by-step instructions for constructing different models and exploring geometric concepts. Limited quantity available, so grab this geometry construction kit and let your child's imagination and geometric thinking flourish!"
+  },
+  {
+    "seller": "MathWhiz",
+    "picture": "https://i.ibb.co/b2SDqf6/mathematical-Dice.jpg",
+    "name": "Mathematical Dice Game",
+    "price": 14.99,
+    "category": "Math Learning Toys",
+    "quantity": 12,
+    "rating": 4.6,
+    "details": "Engage your child's mathematical skills with the Mathematical Dice Game. This exciting educational game combines math skills with a fun dice-rolling challenge. Players use the dice to create equations, solve problems, and earn points. It's a great way to practice addition, subtraction, multiplication, and division in an interactive and enjoyable way. The game includes different levels of difficulty, making it suitable for various age groups. Limited quantity available, so get this mathematical dice game now and make learning math a playful adventure!"
+  },
+  {
+    "seller": "TechGenius",
+    "picture": "https://i.ibb.co/cTtGTfL/Electronicc-Circuit.jpg",
+    "name": "Electronic Circuit Builder",
+    "price": 49.99,
+    "category": "Engineering Kits",
+    "quantity": 10,
+    "rating": 4.5,
+    "details": "Unleash your child's inner engineer with the Electronic Circuit Builder. This kit allows kids to learn about electronics and circuits by building their own electronic projects. With a range of components, wires, and a breadboard, children can experiment and create various circuits. They'll learn about resistors, capacitors, LEDs, and much more. The kit comes with an instruction manual that guides them through different projects, from basic to advanced. Limited quantity available, so grab this engineering kit and let your child dive into the world of electronics and circuitry!"
+  },
+  {
+    "seller": "InnoTech",
+    "picture": "https://i.ibb.co/b1B5nh7/Mechanical-Engineering.jpg",
+    "name": "Mechanical Engineering Set",
+    "price": 59.99,
+    "category": "Engineering Kits",
+    "quantity": 8,
+    "rating": 4.8,
+    "details": "Ignite your child's passion for mechanical engineering with this comprehensive set. It includes various mechanical components like gears, pulleys, and axles that can be used to build intricate machines and mechanisms. The set comes with a detailed guidebook featuring step-by-step instructions for building different models. From simple machines to complex structures, children can explore the principles of mechanical engineering through hands-on experimentation. Limited quantity available, so get this mechanical engineering set now and watch your child's creativity and problem-solving skills flourish!"
+  },
+  {
+    "seller": "STEMBuilders",
+    "picture": "https://i.ibb.co/pJgMwrq/robotics-Starter.jpg",
+    "name": "Robotics Starter Kit",
+    "price": 69.99,
+    "category": "Engineering Kits",
+    "quantity": 5,
+    "rating": 4.7,
+    "details": "Introduce your child to the world of robotics with this exciting starter kit. It includes all the necessary components to build and program their own robots. With step-by-step instructions and a user-friendly programming interface, children can bring their robot creations to life. They'll learn about sensors, motors, and the basics of coding while having fun exploring the possibilities of robotics. Limited quantity available, so grab this robotics starter kit and let your child's imagination and innovation soar!"
+  },
+  {
+    "seller": "EngineerPro",
+    "picture": "https://i.ibb.co/ssZzTcd/Structural-Engineering.jpg",
+    "name": "Structural Engineering Set",
+    "price": 79.99,
+    "category": "Engineering Kits",
+    "quantity": 12,
+    "rating": 4.6,
+    "details": "Inspire your child's curiosity for structural engineering with this comprehensive set. It includes various building materials like beams, connectors, and panels that can be used to construct strong and stable structures. The set comes with design plans and engineering principles to guide children in building bridges, towers, and other architectural marvels. Through hands-on experimentation, they'll learn about forces, load distribution, and the importance of structural integrity. Limited quantity available, so get this structural engineering set and let your child become a master builder!"
+  },
+  {
+    "seller": "TechPro",
+    "picture": "https://i.ibb.co/f8J6Q6s/digital-Multimeter.jpg",
+    "name": "Digital Multimeter",
+    "price": 39.99,
+    "category": "Engineering Tools",
+    "quantity": 10,
+    "rating": 4.5,
+    "details": "Enhance your engineering projects with the Digital Multimeter. This versatile tool measures voltage, current, resistance, and more. It's essential for troubleshooting circuits, testing components, and ensuring accuracy in electrical projects. The multimeter features a clear digital display and various measurement modes. It's suitable for beginners and professionals alike. Limited quantity available, so grab this digital multimeter now and equip yourself with the right tool for precise electrical measurements!"
+  },
+  {
+    "seller": "InnoTech",
+    "picture": "https://i.ibb.co/8PS21Jb/precision-Screwdirver.jpg",
+    "name": "Precision Screwdriver Set",
+    "price": 19.99,
+    "category": "Engineering Tools",
+    "quantity": 15,
+    "rating": 4.8,
+    "details": "Get the job done with precision using the Precision Screwdriver Set. This set includes a range of screwdriver tips and sizes, perfect for working with small electronic components, delicate instruments, and intricate machinery. The screwdrivers feature high-quality, durable construction for long-lasting performance. They come in a compact carrying case for easy storage and transportation. Limited quantity available, so get this precision screwdriver set now and ensure precision in your engineering projects!"
+  },
+  {
+    "seller": "STEMBuilders",
+    "picture": "https://i.ibb.co/ngtJ30g/calipers.jpg",
+    "name": "Calipers and Micrometer Set",
+    "price": 59.99,
+    "category": "Engineering Tools",
+    "quantity": 8,
+    "rating": 4.7,
+    "details": "Achieve accurate measurements with the Calipers and Micrometer Set. This precision measuring toolset includes both digital and analog calipers, as well as a micrometer, enabling precise measurements of length, diameter, and thickness. It's ideal for engineering, machining, and woodworking projects. The set comes in a protective case for safe storage. Limited quantity available, so grab this calipers and micrometer set now and ensure precise measurements in your engineering endeavors!"
+  },
+  {
+    "seller": "EngineerPro",
+    "picture": "https://i.ibb.co/wKMLSgf/soldering.jpg",
+    "name": "Soldering Station",
+    "price": 79.99,
+    "category": "Engineering Tools",
+    "quantity": 5,
+    "rating": 4.6,
+    "details": "Take your electronic projects to the next level with the Soldering Station. This tool provides a controlled environment for soldering components onto circuit boards. It features adjustable temperature settings, an ergonomic handle, and a stable base. Whether you're a hobbyist or a professional, this soldering station is a must-have for precise and reliable soldering. Limited quantity available, so get this soldering station now and elevate your engineering projects with professional-quality soldering!"
+  }
+]
