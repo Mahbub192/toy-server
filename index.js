@@ -40,7 +40,9 @@ async function run() {
 
     //get toy filtering by email
     app.get('/myToy',async(req,res)=>{
-      const result = await allToyCollection.find({email: req.query.email}).sort({ price: 1 }).toArray();
+      const value = req.query
+      const index = parseInt(value.value);
+      const result = await allToyCollection.find({email: req.query.email}).sort({ price: index }).toArray();
       res.send(result);
     })
 
